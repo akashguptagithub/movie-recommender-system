@@ -21,5 +21,5 @@ This project is a movie recommendation system built using the TMDB dataset, whic
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/sayyedfaixal/movie-recommender.git
+   https://github.com/akashguptagithub/movie-recommender-system.git
    ```
